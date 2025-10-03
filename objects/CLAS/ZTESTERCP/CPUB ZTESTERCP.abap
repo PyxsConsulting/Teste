@@ -4,3 +4,4 @@ CLASS ztestercp DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+data lv_a type string.
